@@ -1,0 +1,10 @@
+{
+  "name": "jquery.iframe-transport.js",
+  "icons":{
+      "src": "images/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+  "start_url": "/",
+  "display": "standalone"
+}
